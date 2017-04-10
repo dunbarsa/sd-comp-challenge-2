@@ -4,4 +4,4 @@ This static comp is similar to the last one in that we have limited creative lic
 
 ![original comp](https://github.com/dunbarsa/sd-comp-challenge-2/blob/master/original-comp-2.jpg)
 
-![my version](https://github.com/dunbarsa/sd-comp-challenge-2)
+![my version](https://github.com/dunbarsa/sd-comp-challenge-2/blob/master/sd-comp-challenge-2-index-html.png)
